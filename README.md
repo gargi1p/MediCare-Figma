@@ -1,5 +1,5 @@
 <h1>MEDICARE</h1>
-A vibrant fashion website UI , featuring a sleek navigation bar for seamless category browsing (Women, Men, Kids, etc.), a prominent search bar, and user icons for account and wishlist access.
+Designed a user-friendly Medicare UI with intuitive navigation, highlighting healthcare solutions, and offering interactive options like account creation, plan comparisons, and contact support.
 <H3>Snapshots-</H3>
 
 
